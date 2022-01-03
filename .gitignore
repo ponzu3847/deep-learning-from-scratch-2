@@ -1,0 +1,13 @@
+.DS_Store
+*~
+*.gz
+*.pyc
+__pycache__/
+*.pkl
+*.vscode
+*.png
+*.jpg
+*.gif
+LICENSE.md
+README.md
+
